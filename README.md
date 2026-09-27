@@ -139,7 +139,6 @@ npm start
 
 Run the desktop monitoring application after installing Tshark (Wireshark).
 
-
 ## 🔮 Future Improvements
 
 * Support for additional social media platforms
